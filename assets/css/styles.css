@@ -1,0 +1,76 @@
+
+*{
+    color: white;
+}
+
+body{
+    background: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.title{
+    background: rgba(65, 105, 225, 0.563);
+    width: 50%;
+    text-align: center;
+    padding: 40px;
+    margin: auto;
+    color: white;
+}
+
+.title span{
+    font-size: 35px;
+}
+
+.target{
+    border: rgb(255, 249, 249) solid 2px;
+    width: 150px;
+    text-align: center;
+    background: rgb(68, 68, 206);
+    float: right;
+    position: absolute;
+    top: 200px;
+    right: 100px;
+}
+
+.target span{
+    font-size: 80px;
+}
+
+.score{
+    border: rgb(255, 249, 249) solid 2px;
+    width: 150px;
+    text-align: center;
+    background: rgb(68, 68, 206);
+    float: left;
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    color: white;
+}
+.score span{
+    font-size: 80px;
+}
+
+figure img {
+    cursor: pointer;
+    vertical-align: top;
+    opacity: .5;
+}
+
+figure img:hover{
+    opacity: 1;
+}
+
+#crystals{
+    text-align: center;
+    background: rgba(255, 255, 255, 0.466);
+    width: 60%;
+    margin: 300px auto 0px auto;
+    border-radius: 10%;
+}
+
+.last{
+    background: rgba(199, 23, 199, 0.568);
+    text-align: center;
+    margin-top: 200px;
+}
