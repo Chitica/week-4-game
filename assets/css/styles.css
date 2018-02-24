@@ -65,12 +65,12 @@ figure img:hover{
     text-align: center;
     background: rgba(255, 255, 255, 0.466);
     width: 60%;
-    margin: 300px auto 0px auto;
+    margin: 200px auto 0px auto;
     border-radius: 10%;
 }
 
 .last{
     background: rgba(199, 23, 199, 0.568);
     text-align: center;
-    margin-top: 200px;
+    margin-top:100px;
 }
