@@ -29,7 +29,7 @@
   // We begin by expanding our array to include four options.
   var numberOptions = [ pinkDiamond, blueDiamond, greenDiamond, yellowDiamond];
     
-  var images = ["images/pink.png", "images/blue.png", "images/green.png", "images/yellow.png"]
+  var images = ["assets/images/pink.png", "assets/images/blue.png", "assets/images/green.png", "assets/images/yellow.png"]
 
  
   // Next we create a for loop to create crystals for every numberOption.
