@@ -87,7 +87,7 @@ img{
 /* ----------- iPhone 6+, 7+ and 8+ ----------- */
 
 /* Portrait and Landscape */
-@media (max-width: 576px) { 
+@media (max-width: 776px) { 
 
     img{
         width: 125px;
